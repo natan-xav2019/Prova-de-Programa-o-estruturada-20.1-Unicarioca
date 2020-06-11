@@ -1,0 +1,18 @@
+Desenvolva os programas:
+
+1)      Leia 10 números inteiros e armazene em um vetor v. Crie dois novos vetores v1 e v2. Copie os valores  ımpares de v para v1, e os valores pares de v para v2 que terão seus tamanhos modificados dinamicamente. No final escreva os elementos UTILIZADOS de v1 e v2.
+
+ 
+
+2)      Faça um programa para ler 10 números DIFERENTES a serem armazenados em um vetor. Os dados deverão ser armazenados no vetor na ordem que forem sendo lidos, ˜ sendo que caso o usuário digite um número que já foi digitado anteriormente, o programa deverá pedir para ele digitar outro número. Note que cada valor digitado pelo usuário deve ser pesquisado no vetor, verificando se ele existe entre os números que já foram  fornecidos. Exibir na tela o vetor final que foi digitado.
+
+ 
+
+3)      Leia uma matriz 5 x 5. Leia também um valor  X. O programa devera fazer uma busca desse valor na matriz e, ao final, escrever a localização (linha e coluna) ou uma mensagem de “não encontrado”.
+
+ 
+
+ 
+
+4)      Faça um programa que modifique as vogais de uma frase. O programa deve ler uma frase (max. 100 caracteres) e armazená-la num vetor. Imprimir a frase lida trocando as vogais, isto é, trocar 'a' pelo 'u', 'e' pelo 'o', 'i' pelo 'u', 'o' pelo 'a' e o 'u' pelo 'e'. Usar uma função void (procedimento) para realizar a troca e uma função para realizar a impressão da frase trocada. A função deve ter como parâmetro um ponteiro char referente ao vetor. Dica: Use a função gets() da biblioteca string.h para realizar a leitura da frase. Use o switch para realizar as trocas. Só considere as letras minúsculas.
+

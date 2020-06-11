@@ -1,0 +1,15 @@
+
+	Tabela
+----------------------
+
+Nome: Luan
+Sexo: Masculino
+Idade: 20 ano(s)
+
+----------------------
+
+Nome: Juliana
+Sexo: Feminino
+Idade: 32 ano(s)
+
+----------------------
